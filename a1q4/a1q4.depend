@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1487505437 source:e:\github\advanced-graphics-and-animation\a1q4\main.cpp
+1487526043 source:e:\github\advanced-graphics-and-animation\a1q4\main.cpp
+	<GLUT/glut.h>
 	<GL/glut.h>
 
 1368260360 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
